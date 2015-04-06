@@ -1,0 +1,3 @@
+name: Generator
+main: generator.GeneratorMain
+version: 5.0
